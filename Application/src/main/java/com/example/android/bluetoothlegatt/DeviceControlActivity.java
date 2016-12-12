@@ -62,8 +62,7 @@ public class DeviceControlActivity extends Activity {
     public static final String EXTRAS_DEVICE_NAME = "DEVICE_NAME";
     public static final String EXTRAS_DEVICE_ADDRESS = "DEVICE_ADDRESS";
 
-    // casey 16502797151
-    private final static String TARGET_PHONE_NUMBER = "16173720443";
+    private final static String TARGET_PHONE_NUMBER = "16502797151";
     private String fallMessage="FALL DETECTED AT ";
 
     private LocationGetter mLocationGetter;
