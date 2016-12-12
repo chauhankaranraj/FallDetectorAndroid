@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c108a16c8ad48f0b0e932a6af9911aa4a2cf936">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_169dea2e8b7b9639cfcbd65ff30e2392f75a6b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_1766c5f442fe7fd387daaeea5e018520c264b6f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_91d9523399c69c45b3c64c76cb57c014d6da6023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_1766c5f442fe7fd387daaeea5e018520c264b6f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_678a15d8c377a793306fdee438b5daa6b8f21745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_18a86d5bb0f4f0f2ce78db9817185496e26e4ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_46201f3dad4b6c4533b81e09927ed96b4c6cbebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_f388fba799c46e9898ba57e028082e0edc0c225e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_91d9523399c69c45b3c64c76cb57c014d6da6023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_0a222eb9d4c4e54efc52e73f90b5bf4e78dc5525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_067437758577104753e45a70cdda991edb40604a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_18a86d5bb0f4f0f2ce78db9817185496e26e4ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c108a16c8ad48f0b0e932a6af9911aa4a2cf936">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_169dea2e8b7b9639cfcbd65ff30e2392f75a6b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_54bd56d774b56a6609ad2e6c7efc4a2dc4b1bbf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ab0878a7291d7de1f506cf7b5c8d99b07fc510ed">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a9b8990c0d00a9b695b4af0c6aa4ff041965c32a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_f9a2749caa4373f8be8bc73dc4e4463ea845570f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_678a15d8c377a793306fdee438b5daa6b8f21745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_f9a2749caa4373f8be8bc73dc4e4463ea845570f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_738259cbb2ab463196df097bf9da70de815aee9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_6c7277145ac1ac558c40c992477b7c5e0370e25c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="691d5306d13091bc23e4fd296d857650892ecc8f">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b3537acbaef9b834fa3f5912e5c0c9f6e396901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4f4e7b9e1cabcd5602749da2d9f260e4f7b5442">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4174364bd103963a25e9c8f024f648ff2da28a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_738259cbb2ab463196df097bf9da70de815aee9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_52068d4c42514162661c73263795e414c21d6030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548a8b11a5500038e2c58a45eff561ebaad6505e">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4174364bd103963a25e9c8f024f648ff2da28a89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_f388fba799c46e9898ba57e028082e0edc0c225e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_988d0777fd39a2008486fe5f652d15be3fb67d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_6a236b2ad354ea24f2c7df4451e3b25d38015d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b628a840a19d24f1064e4ea1f15ac4f928ed6597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/karanraj/Documents/AndroidApps/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f372ad4ea9920a0e7675d407cdad3d341f99e283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_b628a840a19d24f1064e4ea1f15ac4f928ed6597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f372ad4ea9920a0e7675d407cdad3d341f99e283/classes.dex" />
+    </item>
+
+</items>

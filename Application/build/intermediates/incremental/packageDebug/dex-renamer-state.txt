@@ -1,0 +1,7 @@
+#Mon Dec 12 04:07:33 EST 2016
+base.0=/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_169dea2e8b7b9639cfcbd65ff30e2392f75a6b14
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4174364bd103963a25e9c8f024f648ff2da28a89/classes.dex
+base.1=/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4174364bd103963a25e9c8f024f648ff2da28a89
+file.0=/Users/karanraj/Desktop/EK210 final repo/BluetoothLeGatt WORKING copy/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_169dea2e8b7b9639cfcbd65ff30e2392f75a6b14/classes.dex
