@@ -1,9 +1,10 @@
 
-Android BluetoothLeGatt Sample
+Android BluetoothLeGatt
 ===================================
 
-This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-to transmit arbitrary data between devices.
+This app was created (example app in Android project, modified by Karanraj Chauhan) for the Engineering Design Project of the class ENG EK210 - Introdcution to Engineering Design. The project was to create a wearable device that detects when the wearer has fallen, sends a text message with GPS location, and make a phone call to the target number.
+
+It has been modified to work in tandem with a BLE peripheral (Arduino 101 in this case), which has a custom BLE Service with a BLE Characteristic (which has BLENotfiy property) that functions as an indicator of the device wearer's status. The device that runs this app functions as the central, and once connected to the peripheral, listens for changes in the BLE Characteristic.
 
 Introduction
 ------------
